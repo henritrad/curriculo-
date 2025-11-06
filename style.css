@@ -1,5 +1,5 @@
 body {
-    background-color: #0e1325;
+    background-color: #000000;
     color: #ffffff;
     font-family: 'Poppins', sans-serif;
     line-height: 1.6;
@@ -8,10 +8,10 @@ body {
 }
 
 header {
-    background-color: #1a72f2;
+    background-color: #7611c9;
     text-align: center;
     padding: 40px 20px;
-    border-bottom: 2px solid #1a72f7;
+    border-bottom: 2px solid #7611c9;
 }
 
 h1 {
@@ -71,7 +71,7 @@ ul {
 }
 
 footer {
-    background-color: #1a72f2;
+    background-color: #7611c9;
     text-align: center;
     padding: 20px;
     border-top: 2px solid #ffffff;
